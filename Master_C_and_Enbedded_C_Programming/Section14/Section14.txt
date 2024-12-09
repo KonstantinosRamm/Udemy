@@ -1,15 +1,13 @@
  1   Merge two arrays of same size sorted in descending order.
 
- 2  Count the frequency of each element of an array.
+ 2   Count the frequency of each element of an array.
 
  3   Sort elements of array in ascending order.
 
  4   Addition of two Matrices.
 
- 5    Multiplication of two Matrices.
+ 5   Multiplication of two Matrices.
 
- 6   Transpose of a Matrix.
+ 6   Find the missing number from a given array.
 
- 7    Find the missing number from a given array.
-
- 8   Find two elements whose sum is closest to zero.
+ 7   Find two elements whose sum is closest to zero.
