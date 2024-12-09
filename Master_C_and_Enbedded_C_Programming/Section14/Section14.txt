@@ -4,16 +4,12 @@
 
  3   Sort elements of array in ascending order.
 
- 4   Insert New value in the array (sorted list).
+ 4   Addition of two Matrices.
 
- 5   Delete an element at desired position from an array.
+ 5    Multiplication of two Matrices.
 
- 6   Addition of two Matrices.
+ 6   Transpose of a Matrix.
 
- 7    Multiplication of two Matrices.
+ 7    Find the missing number from a given array.
 
- 8   Transpose of a Matrix.
-
- 9    Find the missing number from a given array.
-
- 10   Find two elements whose sum is closest to zero.
+ 8   Find two elements whose sum is closest to zero.
