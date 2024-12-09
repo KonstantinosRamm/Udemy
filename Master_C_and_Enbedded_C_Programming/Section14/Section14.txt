@@ -1,0 +1,19 @@
+ 1   Merge two arrays of same size sorted in descending order.
+
+ 2  Count the frequency of each element of an array.
+
+ 3   Sort elements of array in ascending order.
+
+ 4   Insert New value in the array (sorted list).
+
+ 5   Delete an element at desired position from an array.
+
+ 6   Addition of two Matrices.
+
+ 7    Multiplication of two Matrices.
+
+ 8   Transpose of a Matrix.
+
+ 9    Find the missing number from a given array.
+
+ 10   Find two elements whose sum is closest to zero.
